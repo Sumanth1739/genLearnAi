@@ -67,8 +67,7 @@ LearnGen/
 - **Mongoose** - MongoDB object modeling
 - **JWT** - Authentication and authorization
 - **Google AI** - AI content generation
-- **Winston** - Logging system
-- **Helmet** - Security middleware
+
 
 ### **AI & External Services**
 
