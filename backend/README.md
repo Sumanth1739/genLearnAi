@@ -5,9 +5,9 @@ A robust Node.js backend API for the LearnGenAI platform - an AI-powered learnin
 ## 🚀 Features
 
 - **Authentication & Authorization**: JWT-based authentication with role-based access control
-- **AI Integration**: Google Generative AI for content generation
+- **AI Integration**: Meta Generative AI for content generation
 - **Database**: MongoDB with Mongoose ODM
-- **Security**: Helmet, CORS, Rate limiting, Input validation
+- **Security**: CORS, Rate limiting, Input validation
 - **Logging**: Winston logger with file and console output
 - **Email**: Nodemailer for email notifications
 - **Error Handling**: Centralized error handling with custom error classes
@@ -18,7 +18,7 @@ A robust Node.js backend API for the LearnGenAI platform - an AI-powered learnin
 - Node.js (v18 or higher)
 - npm or yarn
 - MongoDB (local or cloud)
-- Google AI API key
+- Meta AI API key
 
 ## 🛠️ Installation
 
